@@ -4,3 +4,4 @@
 - [Project 3: Forensic Glass Analysis] (https://github.com/amiryaacoobi/Chemical-Properties-Glass-Predictor)
 - [Project 4: Key Determinants of Global Life Expectancy Trends] (https://github.com/amiryaacoobi/Life-Expectancy-Trends)
 - [Project 5: Major League Baseball Pitcher Performance Data Analysis Project] (https://github.com/amiryaacoobi/Major-League-Baseball-Pitcher-Performance-Data-Analysis-Report)
+- [Project 6: Heart Disease Determination] (https://github.com/amiryaacoobi/Links-To-Heart-Disease)
